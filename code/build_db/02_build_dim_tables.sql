@@ -39,4 +39,3 @@ from import.master_plan;
 
 alter table spass_types
 add id serial primary key;
-

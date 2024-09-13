@@ -1,4 +1,4 @@
--- create the star schema
+-- create star schema
 
 insert into events(
   time_stamp, 
