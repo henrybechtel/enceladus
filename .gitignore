@@ -1,6 +1,6 @@
 _pg15_data/
 data/
-code/reference_code/
+postgres/code/reference_code/
 setup_pg.sh
 .DS_Store
 
